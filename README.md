@@ -1,18 +1,18 @@
-
-# 🚀 SkillShowcase
+<h2 style="background-color:#415a77; color:#e0e1dd; padding:10px; border-radius:6px;">
+🚀 SkillShowcase
+</h2>
 
 SkillShowcase is a dynamic and responsive frontend application that allows users to display and explore various skills, certifications, coding achievements, internships, and projects. It is designed to visually present a developer’s profile in a clean and interactive format.
 
 ### 🎞 Live Demo (GIF)
+
 ![SkillShowcase in Action](./public/assets/SkillShowCase.gif)
 
+## 🔗 [🚀 Live Now](https://your-live-project-link.com)
 
-
-
-🔗 [🚀 Live Now](https://your-live-project-link.com)
----
-
-## 📌 Project Overview
+<h2 style="background-color:#415a77; color:#e0e1dd; padding:10px; border-radius:6px;">
+📌 Project Overview
+</h2>
 
 SkillShowcase serves as a personal or portfolio dashboard where users can:
 
@@ -26,21 +26,26 @@ The UI is fully responsive, intuitive, and focused on enhancing visibility of te
 
 ---
 
-## 🛠 Tech Stack Used
+<h2 style="background-color:#415a77; color:#e0e1dd; padding:10px; border-radius:6px;">
+🛠 Tech Stack Used
+</h2>
 
-| Category        | Technologies                                      |
-|-----------------|---------------------------------------------------|
-| 🧠 Core         | **React.js**, **JavaScript**                      |
-| 🎨 Styling      | **Tailwind CSS**, Custom Utility Classes          |
-| 📦 State/Props  | React Hooks (`useState`, props)                   |
-| 🧱 UI Icons     | `react-icons` (FontAwesome Icons) for the like icon , Comment icon and menu bar[hamburgur menu]               |
-| 📁 Project Type | Frontend-Only (No backend integration yet)        |
+| Category        | Technologies                                                                                    |
+| --------------- | ----------------------------------------------------------------------------------------------- |
+| 🧠 Core         | **React.js**, **JavaScript**                                                                    |
+| 🎨 Styling      | **Tailwind CSS**, Custom Utility Classes                                                        |
+| 📦 State/Props  | React Hooks (`useState`, props)                                                                 |
+| 🧱 UI Icons     | `react-icons` (FontAwesome Icons) for the like icon , Comment icon and menu bar[hamburgur menu] |
+| 📁 Project Type | Frontend-Only (No backend integration yet)                                                      |
 
 ---
 
-## ✨ Key Features
+<h2 style="background-color:#415a77; color:#e0e1dd; padding:10px; border-radius:6px;">
+✨ Key Features
+</h2>
 
 ### 🔹 Post Filtering & Sorting
+
 - Filter posts by type (Project, Certification, etc.)
 - Sort posts by:
   - Recent
@@ -48,29 +53,37 @@ The UI is fully responsive, intuitive, and focused on enhancing visibility of te
   - By Category (e.g., `#AI`, `#WebDev`)
 
 ### 🔹 Components Breakdown
+
 - **Navbar**: Fixed header with category filters
 - **Sidebar**: Displays User Dashboard, Leaderboard, Top Projects, Top Skills, and sort options
 - **Post Cards**: Interactive cards for each post type with like, comment, save counters
 
 ### 🔹 Responsive Design
+
 - Fully mobile and tablet compatible
 - Flex/grid layouts optimized for various screen sizes
 
 ### 🔹 UI/UX Focus
+
 - Clean, modern look with dark-blue themed with white palette
 - Scroll-hidden sidebar and scrollable post grid for better UX
 
 ---
 
-## 🖼 Sample Screenshots
+<h2 style="background-color:#415a77; color:#e0e1dd; padding:10px; border-radius:6px;">
+🖼 Sample Screenshots
+</h2>
 
 ### 🧩 SkillShowcase Dashboard
+
 ![Dashboard Screenshot](./public/assets/Screenshot-1.png)
 
 ### 🧩 SkillShowcase Sidebar
+
 ![Dashboard Screenshot](./public/assets/Screenshot-SideBar-2.png)
 
 ### 🗂 Post-Card View
+
 ![Filtered Posts](./public/assets/Screenshot-Main%20Post%20Cards-3.png)
 
 ---
@@ -89,6 +102,6 @@ npm install
 
 # Start the development server
 npm run dev
-````
+```
 
 ---
