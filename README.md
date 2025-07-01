@@ -8,7 +8,7 @@ SkillShowcase is a dynamic and responsive frontend application that allows users
 
 ![SkillShowcase in Action](./public/assets/SkillShowCase.gif)
 
-## 🔗 [🚀 Live Now](https://your-live-project-link.com)
+## 🔗 [🚀 Live Now](https://skill-show-case-explore-frontend.vercel.app/)
 
 <h2 style="background-color:#415a77; color:#e0e1dd; padding:10px; border-radius:6px;">
 📌 Project Overview
