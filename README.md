@@ -67,6 +67,7 @@ The UI is fully responsive, intuitive, and focused on enhancing visibility of te
 
 - Clean, modern look with dark-blue themed with white palette
 - Scroll-hidden sidebar and scrollable post grid for better UX
+- Accordion Design in the Sidebar.
 
 ---
 
